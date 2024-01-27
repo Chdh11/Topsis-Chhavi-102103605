@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
-  name = 'Topsis-Chhavi-102103605',         
-  packages = ['Topsis-Chhavi-102103605'],  
+  name = 'Topsis_Chhavi_102103605',         
+  packages = ['Topsis_Chhavi_102103605'],  
   version = '0.1',     
   license='MIT',    
   description = 'This library will help you apply TOPSIS to your datasets for multiple criteria decision making',   
