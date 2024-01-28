@@ -15,7 +15,7 @@ setup(
   author = 'Chhavi Dhankhar',                   
   author_email = 'chhavidhankhar07@gmail.com',      
   url = 'https://github.com/Chdh11/Topsis-Chhavi-102103605',   
-  download_url = 'https://github.com/Chdh11/Topsis-Chhavi-102103605/archive/refs/tags/v_01.tar.gz',  
+  download_url = 'https://github.com/Chdh11/Topsis-Chhavi-102103605/archive/refs/tags/v_02.tar.gz',  
   keywords = ['TOPSIS', 'DECISION-MAKING', 'RANK'],  
   install_requires=[           
           'pandas'
