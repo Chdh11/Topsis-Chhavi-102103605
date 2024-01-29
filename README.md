@@ -12,7 +12,7 @@ Use the package manager pip to install topsis.
 
    ```bash
    pip install Topsis-Chhavi-102103605
-
+```
 ## Usage
 Enter csv filename followed by .csv extentsion, then enter the weights vector with vector values separated by commas, followed by the impacts vector with comma separated signs (+,-), and followed by path of the output csv file.
 
